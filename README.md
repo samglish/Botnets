@@ -1,4 +1,4 @@
 # Botnets
 Ehical Hacking - create a zombie computer network
 
-## Tool : `BEef`
+## Tool : `BeEF`
