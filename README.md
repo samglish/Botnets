@@ -33,7 +33,7 @@ beef:
                 not_working: ["O"]
 
 ```
-Let's to try
+## Let's to try
 ```bash
 /usr/share/beef-xss/modules/persistence/confirm_close_tab/config.yaml           
 #
