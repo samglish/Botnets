@@ -47,10 +47,10 @@ beef:
             enable: true
             category: "Network"
             autorun: true
-            name: "Confirm Close Tab"
-            description: "Shows a confirm dialog to the user when they try to c>
-            authors: ["antisnatchor"]
-            target:
+            name: "DOSer"
+            description: "Do not infinite GET or POST requests to a target, spawning a webWorker in order to don't slow down the hooked page. If the browser doesn't support webWorkers, the module will not run."
+            autors:["antisnatchor"]
+            target:http://kondah.com
                 user_notify: ["ALL"]
                 not_working: ["O"]
 
