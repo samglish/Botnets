@@ -7,3 +7,8 @@ The meaning of botnet has extended to networks of zombie machines, used in parti
 <center>
 <img src="Botnets1.png" width="50%">
 </center>
+
+Go to 
+```bash
+nano /usr/share/beef-xss/modules/persistence/confirm_close_tab/config.yaml
+```
