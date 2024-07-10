@@ -8,7 +8,7 @@ The meaning of botnet has extended to networks of zombie machines, used in parti
 <img src="Botnets1.png" width="50%">
 </center>
 
-Go to 
+Go to configure config.yaml file
 ```bash
 sudo nano /usr/share/beef-xss/modules/persistence/confirm_close_tab/config.yaml
 ```
