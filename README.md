@@ -33,8 +33,7 @@ beef:
                 not_working: ["O"]
 
 ```
-add `autorun: true`
-
+Let's to try
 ```bash
 /usr/share/beef-xss/modules/persistence/confirm_close_tab/config.yaml           
 #
@@ -46,7 +45,7 @@ beef:
     module:
         confirm_close_tab:
             enable: true
-            category: "Persistence"
+            category: "Network"
             autorun: true
             name: "Confirm Close Tab"
             description: "Shows a confirm dialog to the user when they try to c>
