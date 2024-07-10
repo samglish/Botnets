@@ -12,3 +12,4 @@ Go to
 ```bash
 nano /usr/share/beef-xss/modules/persistence/confirm_close_tab/config.yaml
 ```
+output
